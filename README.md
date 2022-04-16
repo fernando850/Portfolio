@@ -14,5 +14,5 @@ Hi, I am Fernando, this repository contains some of the projects I have complete
 * Exploratory data analysis of historical supermarket sales dataset downloaded from kaggle.
 
 * Skills developed: Data visualization, data manipulation.
-* Tools: Python, Pandas, Matplotlib, Seaborn, Datetime, iPython notebook.
+* Technologies used: Python, Pandas, Matplotlib, Seaborn, Datetime, iPython notebook.
 
