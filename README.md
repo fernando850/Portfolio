@@ -7,7 +7,7 @@ Hi, I am Fernando, this repository contains some of the projects I have complete
 * Web Scrapping data of 322 brazilian Real Estate tickers and analysing the best 15 tickers based on the Value Investing strategy.
 
 * Skills developed: Webscrapping, data cleaning, data manipulation.
-* Technologies used: Python, Pandas, Requests, iPython notebook.
+* Technologies used: Python, Pandas, Requests, BeautifulSoup, iPython notebook.
 
 ## Project 2: Exploratory data analysis of a supermarket sales dataset
 
