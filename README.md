@@ -1,5 +1,5 @@
 # Portfolio
-Hi, I am Fernando, this repository contains some of the projects I have completed for hobby and self learning purposes. 
+Hi, I am Fernando, these are some of the projects I have completed for hobby and self learning purposes. 
 
 
 ## Project 1: Finding the 15 best brazilian Real Estates
