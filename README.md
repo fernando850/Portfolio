@@ -21,4 +21,4 @@ Hi, I am Fernando, these are some of the projects I have completed for hobby and
 * Using a Convolutional and Dense Neural Networks to predict my own handwritten digits, and studying the root cause of the difference on the predictions of these two architectures.
 
 * Skills developed: Deep learning, Data visualization.
-* Technologies used: Python, Tensorflow/Keras, Matplotlib. 
+* Technologies used: Python, Tensorflow/Keras, Matplotlib, iPython notebook.
