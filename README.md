@@ -20,7 +20,7 @@ Hi, I am Fernando, these are some of the projects I have completed for hobby and
 
 * Technologies used: Python, Pandas, Matplotlib, Seaborn, Datetime, iPython notebook.
 
-![alt text](https://github.com/fernando850/Portfolio/blob/main/Supermarket_sales/weekday-sales.png)
+![alt text](https://github.com/fernando850/Portfolio/blob/main/weekdaysales.png)
 
 ## [Recognizing my own handwritten digits through neural networks.](https://github.com/fernando850/My-own-digits-recognizer/blob/main/Digits-Network.ipynb)
 
