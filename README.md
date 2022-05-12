@@ -9,7 +9,7 @@ Hi, I am Fernando, these are some of the projects I have completed for hobby and
 * Skills developed: Webscrapping, data cleaning, data manipulation.
 
 * Technologies used: Python, Pandas, Requests, BeautifulSoup, iPython notebook.
-![Alt text](https://github.com/fernando850/Portfolio/blob/main/distributiontickers.png )
+![Alt text](distributiontickers.png )
 
 
 ## [Exploratory data analysis of a supermarket sales dataset](https://github.com/fernando850/Supermaket-Sales/blob/main/supermaket.ipynb)
