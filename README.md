@@ -1,6 +1,6 @@
 # Portfolio
 Hi, I am Fernando, these are some of the projects I have completed for hobby and self learning purposes. 
-
+---
 
 ## [Finding the 15 best brazilian Real Estates](https://github.com/fernando850/Finding-the-best-brazilian-Real-Estates/blob/main/BrRealestate.ipynb)
 
