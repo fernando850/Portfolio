@@ -30,4 +30,4 @@ Hi, I am Fernando, these are some of the projects I have completed for hobby and
 
 * Technologies used: Python, Tensorflow/Keras, Matplotlib, iPython notebook.
 
-![alt text](https://github.com/fernando850/Portfolio/blob/main/My-own-digits-recognizer/shift-digits.PNG)
+![alt text](https://github.com/fernando850/Portfolio/blob/main/shiftdigits.PNG)
