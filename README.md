@@ -9,7 +9,7 @@ Hi, I am Fernando, these are some of the projects I have completed for hobby and
 * Skills developed: Webscrapping, data cleaning, data manipulation.
 
 * Technologies used: Python, Pandas, Requests, BeautifulSoup, iPython notebook.
-![alt text](https://github.com/fernando850/Portfolio/blob/main/distributiontickers.png )
+![alt text](https://github.com/fernando850/Portfolio/blob/main/distributiontickers.PNG )
 
 
 ## [Exploratory data analysis of a supermarket sales dataset](https://github.com/fernando850/Supermaket-Sales/blob/main/supermaket.ipynb)
@@ -20,7 +20,7 @@ Hi, I am Fernando, these are some of the projects I have completed for hobby and
 
 * Technologies used: Python, Pandas, Matplotlib, Seaborn, Datetime, iPython notebook.
 
-![alt text](https://github.com/fernando850/Portfolio/blob/main/Supermarket_sales/weekday-sales.png)
+![alt text](https://github.com/fernando850/Portfolio/blob/main/Supermarket_sales/weekday-sales.PNG)
 
 ## [Recognizing my own handwritten digits through neural networks.](https://github.com/fernando850/My-own-digits-recognizer/blob/main/Digits-Network.ipynb)
 
