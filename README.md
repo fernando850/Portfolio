@@ -7,7 +7,7 @@ Hi, I am Fernando, these are some of the projects I have completed for hobby and
 
 * Web Scrapping data of 322 brazilian Real Estate tickers and analysing the best 15 tickers based on the Value Investing strategy.
 
-* Skills developed: Webscrapping, data cleaning, data manipulation.
+* Skills developed: Web Scrapping, data cleaning, data manipulation.
 
 * Technologies used: Python, Pandas, Requests, BeautifulSoup, iPython notebook.
 ![alt text](distributiontickers.png )
